@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:38.339601
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:49
 #+TITLE: 維摩疏釋前小序抄
 #+PROPERTY: CBETA_ID T85n2775
 #+PROPERTY: ID KR6i0094
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2775
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0094_T_000-0434c>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0094_T_001-0434c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2775[cf.No.2777]¶
-
- 維摩疏釋前小序抄¶
+No. 2775 [cf. No. 2777]¶
+維摩疏釋前小序抄¶
 ¶
 
 將釋序文分為二。初明教興次第。二明述釋¶
@@ -112,7 +111,7 @@ No.2775[cf.No.2777]¶
 有羅什。夫賢哲國之寶。朕甚思之。若剋龜¶
 茲可馳驛送。後堅伐晉敗軍為姚長所戮。即¶
 姚長為後秦也。呂光迴至。姑臧聞主既喪。遂¶
-僭號。關外稱為後涼。萇崩興立。弘始三年¶
+僣號。關外稱為後涼。萇崩興立。弘始三年¶
 春有樹連李生於廟庭。逍遙一園葱變為薤。¶
 咸稱嘉瑞。各羅什到雍。興加禮遇侍以國¶
 師崇敬甚重。大興法化。於草堂寺及逍遙。園¶
@@ -212,11 +211,7 @@ No.2775[cf.No.2777]¶
 　余永泰二年時居資聖傳經之暇。命筆真書¶
 自為補其闕遺。豈敢傳諸母事。¶
 
-釋肇斷序抄義
-:PROPERTIES:
-:head: 釋肇斷序抄義
-:END:
-¶
+* 釋肇斷序抄義¶
 
 釋此序大文分為四。初通明本迹。二別辨教¶
 興。三明重譯之由。四彰注解所以。初中所¶
