@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:38.339601
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:49
 #+TITLE: 維摩疏釋前小序抄
 #+PROPERTY: CBETA_ID T85n2775
 #+PROPERTY: ID KR6i0094
@@ -212,7 +212,7 @@ No.2775[cf.No.2777]¶
 　余永泰二年時居資聖傳經之暇。命筆真書¶
 自為補其闕遺。豈敢傳諸母事。¶
 
-釋肇斷序抄義
+* 釋肇斷序抄義
 :PROPERTIES:
 :head: 釋肇斷序抄義
 :END:
